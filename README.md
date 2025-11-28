@@ -3,7 +3,6 @@
 <div align="center">
 
 <!-- 🔥 Banner (Your Name Dark Mode) -->
-<img src="https://i.ibb.co/gTmLNzR/banner-yusuf.png" width="100%"/>
 
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/>
 
